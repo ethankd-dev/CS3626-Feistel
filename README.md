@@ -1,5 +1,5 @@
 # CS3626-Feistel
-Programming exercise to replicate a Feistel Cipher
+Programming exercise in CS 3626 - Cryptography to replicate a Feistel Cipher
 ##
 # Example Screenshots
 8-bit block:
